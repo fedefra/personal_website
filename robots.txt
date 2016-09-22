@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /curriculum_federico_frasca_polara.pdf
+Disallow: /dimissioni/
+
+sitemap: http://www.federicofrascapolara.com/sitemap.xml
